@@ -6,3 +6,6 @@ The bot has a main search criterion, in this implemented code, the main selectio
 Databases have been implemented in sqlite. SQLite is an amazing library embedded in the application that uses it. Being a file database, it provides an excellent set of tools for simpler (compared to server databases) processing of any kind of data.
 
 When an application uses SQLite, their communication is performed using functional and direct calls to files containing data (for example, SQLite databases), rather than some kind of interface, which increases the speed and performance of operations.
+
+For starting: \
+<code>python3 tg_pars.py</code>
